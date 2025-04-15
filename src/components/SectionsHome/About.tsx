@@ -12,7 +12,7 @@ import ContainerSubSections from "../Containers/ContainerSubSections"
 const DESCRIPTION_ABOUT_P1 =
   "Hi again! My name is Lucas. I'm an engineer and web developer."
 const DESCRIPTION_ABOUT_P2 =
-  "I've been working with engineering and technology for over a decade and I love looking for alternatives on how technology and people can work together. During my career, I had the opportunity to work on several projects which significantly improved my problem-solving skills, strategic mindset, creativity, and team spirit. I strongly believe that a collaborative environment allows us to achieve much better results. I'm naturally curious, resilient, and perpetually working on improvements. Presently, my professional endeavors are centered around web development. If you have any questions, feel free to drop me a message."
+  "I've been working with engineering and technology for over a decade and I love looking for alternatives on how technology and people can work together. During my career, I had the opportunity to work on several projects which significantly improved my problem-solving skills, strategic mindset, creativity, and team spirit. I strongly believe that a collaborative environment allows us to achieve much better results."
 const DESCRIPTION_ABOUT_P3 =
   "I'm naturally curious, resilient, and perpetually working on improvements. Presently, my professional endeavors are centered around web development."
 const DESCRIPTION_ABOUT_P4 =
